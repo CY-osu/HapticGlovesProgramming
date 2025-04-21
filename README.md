@@ -1,4 +1,4 @@
-# TouchTech - VR Hpatic Gloves
+# TouchTech - VR Haptic Gloves
 This repo currently used for study and development of VR Haptic Gloves.
 
 This repository contains a variety of programs, each crucial to the function of the VR test environment and the glove itself.
